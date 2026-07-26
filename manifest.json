@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Apex VIP VPN",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Apex VPN",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Com.apex.vpn",
+  "description": "SecureVIPVPN and internet man.that easily helpful to stuck website to opened."
+}
